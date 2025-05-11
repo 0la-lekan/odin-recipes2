@@ -1,0 +1,11 @@
+* {
+  background-color: #e6ffff;
+  color: #004d4d;
+}
+h1 {
+  text-align: center;
+}
+.image {
+display: block;
+margin: 0 auto;
+}
