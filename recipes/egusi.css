@@ -1,0 +1,16 @@
+* {
+  background-color: #e6ffff;
+}
+
+h1, h2 {
+  color: #004d4d;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image-e {
+  display: block;
+  margin: 0 auto;
+}
