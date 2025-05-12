@@ -1,11 +1,13 @@
 * {
   background-color: #e6ffff;
   color: #004d4d;
+  font-family: "Times New Roman", Sans-Serif;
 }
+
 h1 {
   text-align: center;
 }
 .image {
-display: block;
-margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
