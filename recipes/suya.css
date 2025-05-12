@@ -1,0 +1,17 @@
+* {
+  background-color: #e6ffff;
+  font-family: "Times New Roman", Sans-Serif;
+}
+
+h1, h2 {
+  color: #004d4d;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image-s {
+  display: block;
+  margin: 0 auto;
+}
